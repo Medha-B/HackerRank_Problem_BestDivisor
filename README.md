@@ -1,0 +1,2 @@
+# HackerRank_Problem_BestDivisor
+Kristen loves playing with and comparing numbers. She thinks that if she takes two different positive numbers, the one whose digits sum to a larger number is better than the other. If the sum of digits is equal for both numbers, then she thinks the smaller number is better. Given an integer,n , can you find the divisor of n that Kristin will consider to be the best?
